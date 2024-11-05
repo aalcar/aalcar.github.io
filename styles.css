@@ -50,6 +50,10 @@ section {
     margin-bottom: 2em;
 }
 
+h4 {
+    padding: 0.5em;
+}
+
 /* Style the footer */
 footer {
     background-color: rgb(177, 43, 113);
