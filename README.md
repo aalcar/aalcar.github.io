@@ -1,3 +1,2 @@
-I DONT KNOW WHAT IM DOING BUT WEBSITE!!!!!!!!!!!!
-
-THIS WAS BUILT USING [GITHUB PAGES](https://aalcar.github.io/)
+[My Site](https://aalcar.github.io/)
+Deployed on Github Pages. :)
