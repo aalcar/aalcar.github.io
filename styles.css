@@ -25,7 +25,6 @@ header {
 /* Style the navigation menu */
 nav {
     background-color: #c53e83;
-    color: #fef;
     padding: 0.5em;
 }
 
@@ -33,6 +32,7 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
+    color: #fef;
 }
 
 nav a {
