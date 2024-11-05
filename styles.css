@@ -16,7 +16,7 @@ body {
 
 /* Style the header */
 header {
-    background-color: #333;
+    background-color: rgb(177, 43, 113);
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -24,7 +24,7 @@ header {
 
 /* Style the navigation menu */
 nav {
-    background-color: #444;
+    background-color: #c53e83;
     padding: 0.5em;
 }
 
@@ -51,7 +51,7 @@ section {
 
 /* Style the footer */
 footer {
-    background-color: #333;
+    background-color: rgb(177, 43, 113);
     color: #fff;
     text-align: center;
     padding: 1em;
