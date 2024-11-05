@@ -47,11 +47,12 @@ main {
 }
 
 section {
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
 }
 
 h4 {
-    padding: 0.5em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
 }
 
 /* Style the footer */
